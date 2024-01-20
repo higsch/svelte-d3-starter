@@ -7,7 +7,7 @@ This template should help get you started developing with Svelte + D3 in Vite.
 ```
 // clone the git repository to your local system
 // optional: fork this repository before cloning
-git clone 
+git clone https://github.com/higsch/svelte-d3-starter.git
 
 // go into the new directory
 cd svelte-d3-starter
