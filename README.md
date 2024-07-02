@@ -2,12 +2,13 @@
 
 This template should help get you started developing with Svelte + D3 in Vite.
 
+In order to copy the files to your local machine, install [degit](https://github.com/Rich-Harris/degit) first.
+
 ## Run
 
 ```
-// clone the git repository to your local system
-// optional: fork this repository before cloning
-git clone https://github.com/higsch/svelte-d3-starter.git
+// use degit to copy the files to your local system
+degit higsch/svelte-d3-starter
 
 // go into the new directory
 cd svelte-d3-starter
