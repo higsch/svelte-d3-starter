@@ -10,11 +10,11 @@ In order to copy the files to your local machine, install [degit](https://github
 ## Run
 
 ```
+// create a new directory
+mkdir svelte-d3-starter
+
 // use degit to copy the files to your local system
 degit higsch/svelte-d3-starter
-
-// go into the new directory
-cd svelte-d3-starter
 
 // install the dependencies
 npm i
