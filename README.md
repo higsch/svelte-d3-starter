@@ -12,6 +12,7 @@ In order to copy the files to your local machine, install [degit](https://github
 ```
 // create a new directory
 mkdir svelte-d3-starter
+cd svelte-d3-starter
 
 // use degit to copy the files to your local system
 degit higsch/svelte-d3-starter
